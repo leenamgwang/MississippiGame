@@ -1,0 +1,11 @@
+
+#back{
+    font-size: 15vw;
+    color: steelblue;
+}
+#retry{
+    width: 10rem;
+    height: 3rem;
+    font-size: 1.2rem;
+    background: burlywood;
+}
